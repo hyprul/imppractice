@@ -1,2 +1,0 @@
-# imppractice
-Created with CodeSandbox
